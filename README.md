@@ -1,0 +1,3 @@
+# SPAM-MAIL-DETECTION
+This python program uses classification technique to classify the spam mail and the ham mail...
+we also use a spamham.csv file in this program..
