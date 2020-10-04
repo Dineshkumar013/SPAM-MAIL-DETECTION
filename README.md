@@ -17,3 +17,4 @@ feature extracting and training the model using SVM algorithm
 predicting a unknown mail as input whether it a ham or spam
 ![p7](https://user-images.githubusercontent.com/60866104/94985215-30ea3c80-0572-11eb-814d-6b3ee3612407.JPG)
 
+https://colab.research.google.com/drive/1AtcZxSCy8zojBQy_MlJB_d4OvRAVSZxx?usp=sharing
